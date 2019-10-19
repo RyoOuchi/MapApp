@@ -1,0 +1,32 @@
+PODS:
+  - DynamicBlurView (3.0.1)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - PopupDialog (0.9.1):
+    - DynamicBlurView (~> 3.0.1)
+  - TPKeyboardAvoiding (1.3.2)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - PopupDialog
+  - TPKeyboardAvoiding
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DynamicBlurView
+    - GoogleMaps
+    - PopupDialog
+    - TPKeyboardAvoiding
+
+SPEC CHECKSUMS:
+  DynamicBlurView: b1df5415f9bd31897549e5d7077e5ec120a4d636
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  PopupDialog: 03985b669c29802661c187513bf827340db1ae4d
+  TPKeyboardAvoiding: cb69d5ddbe90ce0170e4bc2db1e5e41d4a3ad9a4
+
+PODFILE CHECKSUM: 3da1e24b35d1107c199eabd5dd8e12ddbd85165f
+
+COCOAPODS: 1.5.3
