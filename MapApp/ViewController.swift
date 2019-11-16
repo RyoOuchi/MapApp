@@ -7,8 +7,18 @@
 //
 
 import UIKit
+import GoogleMaps
+import CoreLocation
+import PopupDialog
+
 
 class ViewController: UIViewController {
+    
+    
+    @IBOutlet weak var gameScoreView: UIView!
+    @IBOutlet weak var diamondScoreView: UIView!
+    @IBOutlet weak var butterflyScoreView: UIView!
+    @IBOutlet weak var featherScoreView: UIView!
 
     override func viewDidLoad() {
         super.viewDidLoad()
