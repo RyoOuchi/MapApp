@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A0411F823894272006FB17E /* diamond-static@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A0411EF23894272006FB17E /* diamond-static@3x.png */; };
+		2A0411F923894272006FB17E /* feather-static@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A0411F023894272006FB17E /* feather-static@3x.png */; };
+		2A0411FA23894272006FB17E /* feather-static.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A0411F123894272006FB17E /* feather-static.png */; };
+		2A0411FB23894272006FB17E /* feather-static@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A0411F223894272006FB17E /* feather-static@2x.png */; };
+		2A0411FC23894272006FB17E /* diamond-static@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A0411F323894272006FB17E /* diamond-static@2x.png */; };
+		2A0411FD23894272006FB17E /* diamond-static.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A0411F423894272006FB17E /* diamond-static.png */; };
+		2A0411FE23894272006FB17E /* butterfly-static@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A0411F523894272006FB17E /* butterfly-static@3x.png */; };
+		2A0411FF23894272006FB17E /* butterfly-static@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A0411F623894272006FB17E /* butterfly-static@2x.png */; };
+		2A04120023894272006FB17E /* butterfly-static.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A0411F723894272006FB17E /* butterfly-static.png */; };
 		2AF78B9B235B1FE2005BEDAD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF78B9A235B1FE2005BEDAD /* AppDelegate.swift */; };
 		2AF78B9D235B1FE2005BEDAD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AF78B9C235B1FE2005BEDAD /* ViewController.swift */; };
 		2AF78BA0235B1FE2005BEDAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AF78B9E235B1FE2005BEDAD /* Main.storyboard */; };
@@ -35,6 +44,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2A0411EF23894272006FB17E /* diamond-static@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "diamond-static@3x.png"; sourceTree = "<group>"; };
+		2A0411F023894272006FB17E /* feather-static@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "feather-static@3x.png"; sourceTree = "<group>"; };
+		2A0411F123894272006FB17E /* feather-static.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "feather-static.png"; sourceTree = "<group>"; };
+		2A0411F223894272006FB17E /* feather-static@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "feather-static@2x.png"; sourceTree = "<group>"; };
+		2A0411F323894272006FB17E /* diamond-static@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "diamond-static@2x.png"; sourceTree = "<group>"; };
+		2A0411F423894272006FB17E /* diamond-static.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "diamond-static.png"; sourceTree = "<group>"; };
+		2A0411F523894272006FB17E /* butterfly-static@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "butterfly-static@3x.png"; sourceTree = "<group>"; };
+		2A0411F623894272006FB17E /* butterfly-static@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "butterfly-static@2x.png"; sourceTree = "<group>"; };
+		2A0411F723894272006FB17E /* butterfly-static.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "butterfly-static.png"; sourceTree = "<group>"; };
 		2AF78B97235B1FE2005BEDAD /* MapApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AF78B9A235B1FE2005BEDAD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2AF78B9C235B1FE2005BEDAD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +97,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2A0411EE23894272006FB17E /* Dave-Diamonds-Assests */ = {
+			isa = PBXGroup;
+			children = (
+				2A0411EF23894272006FB17E /* diamond-static@3x.png */,
+				2A0411F023894272006FB17E /* feather-static@3x.png */,
+				2A0411F123894272006FB17E /* feather-static.png */,
+				2A0411F223894272006FB17E /* feather-static@2x.png */,
+				2A0411F323894272006FB17E /* diamond-static@2x.png */,
+				2A0411F423894272006FB17E /* diamond-static.png */,
+				2A0411F523894272006FB17E /* butterfly-static@3x.png */,
+				2A0411F623894272006FB17E /* butterfly-static@2x.png */,
+				2A0411F723894272006FB17E /* butterfly-static.png */,
+			);
+			path = "Dave-Diamonds-Assests";
+			sourceTree = "<group>";
+		};
 		2AF78B8E235B1FE2005BEDAD = {
 			isa = PBXGroup;
 			children = (
@@ -107,6 +141,7 @@
 				2AF78B9A235B1FE2005BEDAD /* AppDelegate.swift */,
 				2AF78B9C235B1FE2005BEDAD /* ViewController.swift */,
 				2AF78B9E235B1FE2005BEDAD /* Main.storyboard */,
+				2A0411EE23894272006FB17E /* Dave-Diamonds-Assests */,
 				2AF78BA1235B1FE3005BEDAD /* Assets.xcassets */,
 				2AF78BA3235B1FE3005BEDAD /* LaunchScreen.storyboard */,
 				2AF78BA6235B1FE3005BEDAD /* Info.plist */,
@@ -256,9 +291,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A0411F823894272006FB17E /* diamond-static@3x.png in Resources */,
+				2A0411FD23894272006FB17E /* diamond-static.png in Resources */,
+				2A0411FA23894272006FB17E /* feather-static.png in Resources */,
+				2A0411FB23894272006FB17E /* feather-static@2x.png in Resources */,
+				2A0411FC23894272006FB17E /* diamond-static@2x.png in Resources */,
+				2A04120023894272006FB17E /* butterfly-static.png in Resources */,
+				2A0411FE23894272006FB17E /* butterfly-static@3x.png in Resources */,
+				2A0411F923894272006FB17E /* feather-static@3x.png in Resources */,
 				2AF78BA5235B1FE3005BEDAD /* LaunchScreen.storyboard in Resources */,
 				2AF78BA2235B1FE3005BEDAD /* Assets.xcassets in Resources */,
 				2AF78BA0235B1FE2005BEDAD /* Main.storyboard in Resources */,
+				2A0411FF23894272006FB17E /* butterfly-static@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
